@@ -1,0 +1,22 @@
+# Firebase
+service-account.json
+.env
+.env.local
+firebase-config.ts
+
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build
+dist
+build
+
+# Misc
+.DS_Store
+*.pem
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
